@@ -1,2 +1,2 @@
 # linux_progression
-My journey in the Linux
+My journey in the Linux operating system
